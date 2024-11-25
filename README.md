@@ -8,5 +8,5 @@ python prepare_dataset.py
 Run
 
 ```bash
-python prepare_dataset.py
+python main.py
 ```
